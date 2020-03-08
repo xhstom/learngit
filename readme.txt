@@ -6,4 +6,5 @@ Git tracks changes of files.
 Make Vscode as the default etidtor of Git.
 Creating a new branch is quick.
 Dev branch.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
