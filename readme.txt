@@ -9,3 +9,4 @@ Dev branch.
 Creating a new branch is quick and simple.
 Creating dev.
 A bug fixed by issue-102.
+Push master.
